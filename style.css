@@ -19,7 +19,7 @@ header {
   margin: 0 0 20px 0;
 }
 
-.pageTitle,
+.pageTitle,.main-heading,
 .pageSubTitle {
   font-family: 'Titillium', sans-serif;
   text-transform: uppercase;
