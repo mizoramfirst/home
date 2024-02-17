@@ -25,6 +25,9 @@ header {
   text-transform: uppercase;
   color: #333;
 }
+.main-heading {
+    color: #2C5F2D;
+  }
 
 .pageTitle {
   color: #FF7600;
