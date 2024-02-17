@@ -27,7 +27,7 @@ header {
 }
 .main-heading {
     color: #2C5F2D;
-  }
+}
 
 .pageTitle {
   color: #FF7600;
@@ -83,4 +83,9 @@ header {
   color: #fff;
   
   text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.25);
+}
+.tagline {
+    font-style: italic;
+    text-align: center;
+    display: block;
 }
