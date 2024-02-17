@@ -90,4 +90,6 @@ header {
     font-style: italic;
     text-align: center;
     display: block;
+    margin-top: 1em;
+    font-weight: bold;
 }
