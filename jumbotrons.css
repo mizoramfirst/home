@@ -1,1 +1,5 @@
 .border-dashed { --bs-border-style: dashed; }
+
+p {
+    text-align: left;
+}
