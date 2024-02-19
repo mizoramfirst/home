@@ -3,9 +3,12 @@
 p {
     text-align: left;
 }
-li {
+ol {
     text-align: left;
 }
 .tagline {
+    text-align: center;
+}
+.text-muted {
     text-align: center;
 }
